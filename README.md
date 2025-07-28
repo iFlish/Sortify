@@ -5,8 +5,7 @@
 **Program:** Bachelor of Computer Science (BCS)
 
 ## 📋 Project Overview
-
-This repository contains the final project for the Algorithm and Data Structure course, completed as part of the Bachelor of Computer Science program.
+Sortify is an interactive application that compares Selection Sort and Bubble Sort algorithms. Users can input expense data either by uploading a text file or typing directly, then watch visual demonstrations of both sorting algorithms in action. The application analyzes and compares the performance of both algorithms, showing execution times to help users understand their differences
 
 ## 👥 Team Members
 
