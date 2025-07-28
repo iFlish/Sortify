@@ -13,7 +13,7 @@ Sortify is an interactive application that compares Selection Sort and Bubble So
 | No. | Name | Student ID | Course |
 |-----|------|------------|--------|
 | 1 | Mohamad Nadzmi Bin Nasron | 22011213 | BCS |
-| 2 | Ammirul Adam Bin Amran | 22010256 | BCS |
+| 2 | Ammirrul Adam Bin Amran | 22010256 | BCS |
 | 3 | Izzul Muhaimie Bin Badrul Ikhwan | 22011325 | BCS |
 | 4 | Chong Jia Ze | 22010978 | BCS |
 
