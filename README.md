@@ -3,6 +3,7 @@
 **Course Code:** TFB2023/TEB1113  
 **Semester:** May 2025  
 **Program:** Bachelor of Computer Science (BCS)
+**Group:**  Group 4 Lab 3
 
 ## 📋 Project Overview
 Sortify is an interactive application that compares Selection Sort and Bubble Sort algorithms. Users can input expense data either by uploading a text file or typing directly, then watch visual demonstrations of both sorting algorithms in action. The application analyzes and compares the performance of both algorithms, showing execution times to help users understand their differences
